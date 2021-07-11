@@ -1,1 +1,1 @@
-# image_filter
+# Triple C Image Filter Project
